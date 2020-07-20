@@ -1,4 +1,6 @@
 Smart Queuing System – Project Overview
+img1
+
 
 Main Tasks
 The following pages will walk you through the steps of the project. At a high level, you will:
@@ -120,4 +122,11 @@ The information or documentation on this can be found here
 More information regarding default or manual Fallback Policy can be found here
 
 
+
+Project submission and conclusion
+
+img3
+
+Upload your Proposal Document
+You will need to upload a PDF version of your hardware proposal document to the workspace directory. This can be done by clicking on the upload button on the top right corner of the workspace below.
 
