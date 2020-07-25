@@ -1,3 +1,5 @@
+[![Generic badge](https://img.shields.io/badge/status-beta-red.svg)](https://github.com/immehulsolanki/smart-queuing-system/blob/master/README.md) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/immehulsolanki/smart-queuing-system) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
+
 # Smart Queuing System – Project Overview
 
 ![smart-queuing-system](./resources/img1.jpg)
