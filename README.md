@@ -20,9 +20,9 @@ We've provided three different scenarios that depict real-world problems based o
 
 The three scenarios you'll be looking at are:
 
-Scenario 1: Manufacturing Sector
-Scenario 2: Retail Sector
-Scenario 3: Transportation Sector
+Scenario 1:The Manufacturing Sector
+Scenario 2: The Retail Sector
+Scenario 3: The Transportation Sector
 If you look at the pages immediately after this one, you'll see that there's one page for each of these scenarios.
 
 ## Hardware Proposal
@@ -31,8 +31,8 @@ All of the scenarios involve people in queues, but each scenario will require di
 Later, after you've built and tested your application on each hardware device for all three scenarios, you'll review the results and validate or update your initial proposed choices in the proposal document.
 
 
-# Scenario 1: Manufacturing Sector
-Below is the first scenario. Your job is to read through the scenario and figure out which type of hardware might best fit the client's needs. You'll see that this is similar to scenarios you practiced with earlier in the course.
+# Scenario 1: The Manufacturing Sector
+The first scenario is here below. Your job is to read through the scenario and figure out which type of hardware might best fit the client's needs. You'll see that this is similar to scenarios you practiced with earlier in the course.
 
 The scenario is pretty long and not all of the information is important! That's intentional and not unlike what you'll encounter when working with real clients. This is an opportunity to demonstrate that you know which pieces of information are relevant when selecting hardware, and which are unimportant or unrelated.
 
@@ -63,8 +63,8 @@ To be able to detect chip flaws without slowing down the packaging process, the 
 While Naomi Semiconductors has plenty of revenue to install a quality system, this is still a significant investment and they would ideally like it to last for at least 5-10 years.
 
 
-# Scenario 2: Retail Sector
-Below is the second scenario. Again, your job is to read through the scenario and figure out which type of hardware might best fit the client's needs.
+# Scenario 2: The Retail Sector
+The second scenario is here below. Again, your job is to read through the scenario and figure out which type of hardware might best fit the client's needs.
 
 The Scenario
 PriceRight Singapore has one of its smaller outlets in the tiny neighborhood of Dover. Mr. Lin is the store manager—and like any good store manager, he wants to use Edge AI to help maximize his profit this year.
@@ -82,8 +82,8 @@ Most of the store's checkout counters already have a modern computer, each of wh
 Mr. Lin employs close to 300 employees, including staff that work in transportation, on the store floor, and at the checkout counter. Although the store's annual sales are $7 million in food alone, the net profit is only about 1.1% of this. Mr. Lin also believes in giving fair employment and good wages. He pays his staff with proper salaries, along with substantial bonuses twice a year. As a result, Mr. Lin does not have much money to invest in additional hardware, and also would like to save as much as possible on his electric bill.
 
 
-# Scenario 3: Transportation
-Below is the third scenario. Again, your job is to read through the scenario and figure out which type of hardware might best fit the client's needs.
+# Scenario 3:The Transportation
+The third scenario is here below. Again, your job is to read through the scenario and figure out which type of hardware might best fit the client's needs.
 
 The Scenario
 Ms. Leah is the Innovation head for Delhi Metro Rail Services. Delhi Metro is an urban passenger transportation system connecting Ghaziabad, Faridabad, Gurgaon, Noida, Bahadurgarh, and Ballabhgarh in the National Capital Region of India. Delhi Metro makes 2,700 trips every day and is one of the busiest metros in India.
